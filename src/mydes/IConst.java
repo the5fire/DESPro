@@ -3,7 +3,7 @@ package mydes;
 /**
  * DES算法中使用到的常量
  * @author the5fire
- * blog:http://www.the5fire.net
+ * blog:http://www.the5fire.com
  *
  */
 public interface IConst {

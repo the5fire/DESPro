@@ -3,7 +3,7 @@ package mydes;
 /**
  * DES类，用来加密二进制数据
  * @author the5fire
- * blog:http://www.the5fire.net
+ * blog:http://www.the5fire.com
  * 
  */
 public class DES {

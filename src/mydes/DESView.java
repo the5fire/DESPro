@@ -3,7 +3,7 @@ package mydes;
 /**
  * 就当做是界面类吧，用来测试结果。
  * @author the5fire
- * blog:http://www.the5fire.net
+ * blog:http://www.the5fire.com
  *
  */
 public class DESView {

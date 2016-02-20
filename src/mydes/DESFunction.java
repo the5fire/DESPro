@@ -3,7 +3,7 @@ package mydes;
 /**
  * DES算法需要的基本操作，比如说初始置换，等。
  * @author the5fire
- * blog:http://www.the5fire.net
+ * blog:http://www.the5fire.com
  *
  */
 public class DESFunction {
